@@ -1,5 +1,5 @@
 # Projects
-Pizza Sales Analysis Dashboard
+Pizza Sales Analysis Dashboard 
 This Power BI project analyzes pizza sales data to provide insights into revenue trends, sales performance, and top-selling pizzas. It offers a dynamic dashboard with key performance indicators (KPIs), charts, and slicers.
 Key Features:
 KPIs:
